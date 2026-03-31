@@ -18,15 +18,19 @@ public class Main {
         switch (op) {
             case '+':
                 result = calc.add(a, b);
+                System.out.println("add operation done");
                 break;
             case '-':
                 result = calc.subtract(a, b);
+                System.out.println("subraction operation done");
                 break;
             case '*':
                 result = calc.multiply(a, b);
+                System.out.println("multiply operation done");
                 break;
             case '/':
                 result = calc.divide(a, b);
+                System.out.println("divide operation done");
                 break;
             default:
                 System.out.println("Invalid operation");
