@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/DEMOCALCULATORPROJECT.iml" filepath="$PROJECT_DIR$/DEMOCALCULATORPROJECT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/grad.iml" filepath="$PROJECT_DIR$/grad.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/grad.main.iml" filepath="$PROJECT_DIR$/.idea/modules/grad.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/grad.test.iml" filepath="$PROJECT_DIR$/.idea/modules/grad.test.iml" />
     </modules>
   </component>
 </project>
